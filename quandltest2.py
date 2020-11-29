@@ -1,6 +1,6 @@
 import quandl
 import numpy as np
-quandl.ApiConfig.api_key = 'i8yc8ATodMv8XZjRPCWo'
+quandl.ApiConfig.api_key = '**key'
 
 
 
